@@ -1,2 +1,2 @@
-# Data-Science-Projects
-This repository contains a collection of data science projects that demonstrate various concepts, techniques, and applications in the field of data science. Each project is designed to showcase different aspects of the data science workflow.
+# R-Data-Science-Codebase
+The R-Data-Science-Codebase repository is a comprehensive collection of code and resources for data science projects using the R programming language. It aims to provide a centralized hub of R code and examples that cover various aspects of the data science workflow, including data manipulation, exploratory data analysis, statistical modeling, machine learning, and data visualization.
